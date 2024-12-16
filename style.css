@@ -1,0 +1,40 @@
+@charset "'UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.Principal{
+    text-align: center;
+    padding-bottom: 55px;
+    padding-top: 20px;
+    font-family: monospace;
+}
+
+.Programer{
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+.TextProg{
+    width: 700px;
+    margin: auto;
+    text-align: justify;
+    border: solid 2px black; 
+    border-radius: 10px;
+    padding: 10px;
+}
+
+img{
+    width: 800px;
+    height: 450px;
+    object-fit: cover;
+    margin: auto;
+    display: block;
+    border-radius: 40px;
+    padding: 30px;
+}
